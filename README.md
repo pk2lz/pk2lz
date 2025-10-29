@@ -1,3 +1,11 @@
+<br clear="both">
+
+<div align="center">
+  <img height="280" src="https://i.pinimg.com/originals/74/90/f0/7490f0979825d7bc4e7c005c8d91bb00.gif"  />
+</div>
+
+###
+
 <h4 align="left">🎓 Information Systems Student | Federal Fluminense University (UFF)</h4>
 
 ###
